@@ -1,6 +1,6 @@
 # ubuntu: 22.04 (default py312, others from deadsnakes)
-libsystemd0 [test platform:debian]
-libsystemd-dev [test platform:debian]
-pkg-config  [test platform:debian]
+# libsystemd0 [test platform:debian]
+# libsystemd-dev [test platform:debian]
+# pkg-config
 
-shellcheck [lint platform:ubuntu-noble]
+# shellcheck [lint platform:ubuntu-noble]
